@@ -36,7 +36,7 @@ public interface RegistrationStatusService<T, U, D> {
 
 	/**
 	 * Adds the registration status.
-	 *
+	 *QUALITY_CHECKER
 	 * @param registrationStatusDto
 	 *            the registration status dto
 	 * @param moduleId

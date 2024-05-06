@@ -323,7 +323,9 @@
 		<module>pre-processor</module>
 		<module>core-processor</module>
 		<module>post-processor</module>
-	</modules>
+		<module>registration-processor-training-stage</module>
+		<!--        <module>post-processor/tarining-v2</module>-->
+    </modules>
 
 <!--	<profiles>
 		<profile>

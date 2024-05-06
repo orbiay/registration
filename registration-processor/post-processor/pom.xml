@@ -17,6 +17,7 @@
   	<modules>
     	 <module>registration-processor-message-sender-stage</module>
     	 <module>registration-processor-printing-stage</module>
-		 <module>registration-processor-registration-transaction-service</module> 
-  </modules>
+		 <module>registration-processor-registration-transaction-service</module>
+        <module>registration-processor-training--v2stage</module>
+    </modules>
 </project>

@@ -201,8 +201,12 @@ public class MessageBusAddress implements Serializable {
 
 	/** The Constant STRUCTURE_BUS_OUT. */
 	public static final MessageBusAddress PACKET_CLASSIFIER_BUS_OUT = new MessageBusAddress("packet-classifier-bus-out");
-	
-	
+
+	/** The Constant STRUCTURE_BUS_IN. */
+	public static final MessageBusAddress TRAINING_BUS_IN = new MessageBusAddress("training-bus-in");
+
+	/** The Constant STRUCTURE_BUS_OUT. */
+	public static final MessageBusAddress TRAINIG_BUS_OUT = new MessageBusAddress("training-bus-out");
 	/*
 	 * (non-Javadoc)
 	 *
